@@ -45,5 +45,4 @@ tokyopop.com.png
 tv.apple.com.png
 urls.txt
 viz.com.png
-www.mangaupdates.com.png
 yenpress.com.png
