@@ -46,3 +46,4 @@ tv.apple.com.png
 urls.txt
 viz.com.png
 yenpress.com.png
+mangasee123.com.png
