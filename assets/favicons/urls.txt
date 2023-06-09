@@ -14,6 +14,7 @@ disneyplus.com.png
 ebookjapan.yahoo.co.jp.png
 funimation.com.png
 ganganonline.com.png
+global.bookwalker.jp.png
 hbomax.com.png
 hidive.com.png
 hulu.com.png
