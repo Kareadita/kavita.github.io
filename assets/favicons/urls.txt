@@ -87,7 +87,6 @@ toonily.com.png
 toptoon.net.png
 tv.apple.com.png
 urasunday.com.png
-urls.txt
 viz.com.png
 web-ace.jp.png
 webcomicsapp.com.png
