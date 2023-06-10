@@ -70,7 +70,6 @@ toomics.com.png
 toonily.com.png
 toptoon.net.png
 tv.apple.com.png
-urls.txt
 viz.com.png
 webcomicsapp.com.png
 webtoons.com.png
