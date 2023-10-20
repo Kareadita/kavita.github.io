@@ -486,7 +486,7 @@ tar -xf kavita-osx-x64.tar.gz</pre>
                                     <li><code>:latest</code> which is the latest stable build</li>
                                 </ul>
                                 <p>You can find more information on our 
-                                    <a href="https://hub.docker.com/r/kizaing/kavita/tags" target="_blank">docker hub</a> or a more informative setup on our <a href="https://wiki.kavitareader.com/en/install/docker-install" target="_blank">wiki</a>.
+                                    <a href="https://hub.docker.com/r/jvmilazz0/kavita/tags" target="_blank">docker hub</a> or a more informative setup on our <a href="https://wiki.kavitareader.com/en/install/docker-install" target="_blank">wiki</a>.
                                 </p>
                             </dd>
                             <dt><span class=step>1</span>Install Kavita</dt>
@@ -499,7 +499,7 @@ tar -xf kavita-osx-x64.tar.gz</pre>
     -v /your/manga/directory:/manga \
     -v /kavita/data/directory:/kavita/config \
     --restart unless-stopped \
-    -d kizaing/kavita:latest</pre>
+    -d jvmilazz0/kavita:latest</pre>
                                 </p>
                                 <p>
                                     Alternatively you can use <a href=https://github.com/Kareadita/Kavita#docker target="_blank">docker-compose file</a>:
@@ -509,7 +509,7 @@ tar -xf kavita-osx-x64.tar.gz</pre>
 <pre>version: '3.9'
 services:
     kavita:
-        image: kizaing/kavita:latest
+        image: jvmilazz0/kavita:latest
         volumes:
             - ./manga:/manga
             - ./data:/kavita/config
