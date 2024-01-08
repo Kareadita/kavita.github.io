@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## Install Kavita today!
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+Experience the fastest and most accessible way to read your favorite book, manga, or comic.
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button "Get Started" "/get-started/" >}}
 
 ![](/uploads/illustrations/cuate/server.svg)

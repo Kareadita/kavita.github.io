@@ -3,21 +3,19 @@ dark_footer: true
 menuitems:
   - title: About
     link:  /about/
-  - title: Elements
-    link:  /elements/
   - title: Privacy policy
     link:  /privacy-policy/
 socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg
-  - title: Twitter
-    link: https://twitter.com
-    logo_image: /img/twitter.svg      
-  - title: Mastodon
-    link: https://joinmastodon.org
-    logo_image: /img/mastodon.svg      
-  - title: Instagram
-    link: https://instagram.com
-    logo_image: /img/instagram.svg
-footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
+  - title: Github
+    link: https://github.com/Kareadita/Kavita
+    logo_image: /img/github.svg
+  - title: Discord
+    link: https://discord.gg/b52wT37kt7
+    logo_image: /img/discord.svg
+  - title: Open Collective
+    link: https://opencollective.com/kavita
+    logo_image: /img/opencollective.svg      
+  - title: Paypal
+    link: https://www.paypal.com/paypalme/majora2007?locale.x=en_US
+    logo_image: /img/paypal.svg      
+footer_text: This project is open source. More info on [Github](https://github.com/Kareadita/Kavita)!

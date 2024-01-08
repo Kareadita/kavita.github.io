@@ -8,7 +8,7 @@
 {{- end -}}
 
 {{ $inner = markdownify $inner }}
-{{ $image := index (findRE `(?s)<p><img.*?p>` $inner 1) 0 }}
+{{ $image := index (findRE `(?s)<h2.*?/p>` $inner 1) 0 }}
 {{ $inner = replace $inner $image "" 1 }}
 
 <section class="image alt hasbackgroundcolor">

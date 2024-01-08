@@ -75,7 +75,7 @@ a.logo > div.has_subtitle > div span:nth-child(2) {font-size: 0.75rem; font-weig
 
 section, section.image.alt {padding: 4.5rem 0 6rem;}
 section .twocols {display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); grid-gap: 5.5rem clamp(2rem, 5vw, 5rem);}
-section .twocols > div {display: flex; flex-direction: column; justify-content: center;}
+section .twocols > div {display: flex; flex-direction: column; justify-content: flex-start;}
 section  .container.wide {max-width: 62rem;}
 section .container.small {max-width: 40rem;}
 section.hasbackgroundcolor {padding: 0; margin-top: 2rem;}

@@ -1,149 +1,87 @@
 ---
-title: Kavita - A fast, feature rich, cross platform reading server
+title: Home
 ---
-{{< brick_intro >}}
+{{< brick_intro >}}{{< /brick_intro >}}
 
-# Ready to kick-start your next reading binge?
-
-Kavita is a lightning fast self-hosted digital library with a slick design which supports a vast array of file formats. Install to start reading and share your server with your friends.
-
-{{< button "Get started" "/get-started/" >}}
-
-![](/uploads/illustrations/cuate/assets.svg)
-
-{{< /brick_intro >}}
-{{< brick_image2 >}}
-
-## What’s included in Hugobricks?
-
-![](/uploads/illustrations/cuate/responsive.svg)
-
-Hugoplate is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
-
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
-
-{{< /brick_image2 >}}
-{{< brick_image >}}
-
-## What bricks are available?
-
-![](/uploads/illustrations/cuate/version-control.svg)
-
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
-
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
-
-{{< /brick_image >}}
-{{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_features >}}
-## The Ultimate Hugo theme
+## The Ultimate Reading Server
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
-
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
+Kavita covers all standard formats you would like to have at hand that is accessible to all.
 
 ---
 
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Accessible, Responsive, and Modern
 
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+We aim to provide a design that will work on all modern screen sizes while also following [WCAG](https://www.w3.org/TR/WCAG21/#:~:text=Web%20Content%20Accessibility%20Guidelines%20(WCAG)%202.1%20defines%20how%20to%20make,%2C%20learning%2C%20and%20neurological%20disabilities.) to provide accessibility for everyone.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Lightning fast
+
+Since the start our goal has been less than 100ms query times. This speed first architecture mindset and made Kavita the fastest media server on the market.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### Themeable through CSS variables
 
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+We understand that users have strong preferences. This is why we have made Kavita's colors and styles customizable through CSS variables. We love what our users have [created!](https://github.com/Kareadita/Themes)
 
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully resonsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
-
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
-
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< /brick_features >}}
+
+{{< brick_image2 >}}{{< /brick_image2 >}}
+{{< brick_image >}}
+
+## What is Kavita+?
+
+![](/uploads/illustrations/cuate/version-control.svg)
+
+Kavita+ is an optional premium service offered by the main developer of Kavita (majora2007) which unlocks a set of features for your Kavita application. Kavita+ is a way for me to hopefully go full time on Kavita development—think of it as a way to support the development of Kavita while also getting some sweet features out of it. 
+
+The goal is to not lock all features behind Kavita+, but add features that otherwise aren't feasible in the base product. The base Kavita application will continue to get frequent updates with new features.
+
+
+{{< /brick_image >}}
+
 {{< brick_prices >}}
 
-## Our friendly pricing
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
+## Kavita+ Pricing
 ---
+### Kavita
 
-**budget**
-### Open-source
+Full-featured self-hosted media server
 
-Full-featured theme/page builder to create super fast & amazing website
-
-### _$_**0**/month
-
-- Hugobricks theme/code
-- All available bricks
+### **FREE**
+- Access to all current and future base features
 - Regular updates
-- Bug fixes & security patches
+- Access to bug fixes & security patches
 
 [Get started](/get-started/)
 
 ---
 
-**most popular**
+### Kavita+
 
-### Hosted
+Kavita+ is an extension of Kavita's features.
 
-Everything in one toolkit – We host your website on our top-notch infrastructure.
+### _$_**4**/month or _$_**48**/year
+(Use `FREETRIAL` for $2 off your first month) 
 
-### _$_**25**/month
+- Custom Discord role and access to exclusive channels to help shape Kavita
+- Remove Donate Link
+- Scrobbling support for Anilist
+- External Reviews from AniList and MAL
+- Recommendations from your own library
+- External Recommendations from AniList and MAL
+- External Ratings from AniList and MAL
+- Plus more features planned!
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-- Form handling + notifications
-- CMS system for editors
+[Let's go!](https://buy.stripe.com/00gcOQanFajG0hi5ko?prefilled_promo_code=FREETRIAL)
 
-[Yes, pick me!](/get-started/)
 
----
-
-**everything**
-
-### Enterprise
-
-Get exceptional value and cost savings with our complete products suite.
-
-### _$_**75**/month
-
-- All other features plus:
-- High priority support 
-- Theme adjustments
-- Custom bricks (on request)
-
-[Contact us](/get-started/)
 
 {{< /brick_prices >}}
 {{< brick_cta >}}{{< /brick_cta >}}
