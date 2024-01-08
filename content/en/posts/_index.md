@@ -8,7 +8,13 @@ url: /blog/
 
 # Blog posts
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Here you will find releases and normal posts from Kavita and all it's software.
+
+Tags: 
+- Kavita
+- KavitaEmail
+- Release
+- Non-Release
 
 {{< /brick_posts >}}
 {{< brick_cta >}}{{< /brick_cta >}}
