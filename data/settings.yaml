@@ -2,7 +2,7 @@ favicon_image: /uploads/branding/favicon.ico
 header_image: /uploads/branding/logo-256.png
 sticky_header: true
 customcursor: false
-intersectionobserver: true
+intersectionobserver: false
 filter_has_numbers: true
 page_size: 6
 footer: false
