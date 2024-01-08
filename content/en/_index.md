@@ -29,6 +29,30 @@ Since the start our goal has been less than 100ms query times and 150-350MB of R
 
 We understand that users have strong preferences. This is why we have made Kavita's colors and styles customizable through CSS variables. We love what our users have [created!](https://github.com/Kareadita/Themes)
 
+---
+
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Complex Metadata Filtering
+
+Complex filtering combining multiple statements....
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Smart Lists
+
+Use the complex filtering to save Smart Lists that update as content in your server updates.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Customizable Dashboard & Side Menu
+
+Reorder, hide, and bind Smart lists to your dashboard and Side Menu. Every user can customize thier experience to them.
+
+---
+
 
 {{< /brick_features >}}
 
@@ -37,9 +61,9 @@ We understand that users have strong preferences. This is why we have made Kavit
 
 ## What is Kavita+?
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/illustrations/kavita+.webp)
 
-Kavita+ is an optional premium service offered by the main developer of Kavita (majora2007) which unlocks a set of features for your Kavita application. Kavita+ is a way for me to hopefully go full time on Kavita development—think of it as a way to support the development of Kavita while also getting some sweet features out of it. 
+Kavita+ is an optional service offered by the main developer of Kavita (majora2007) which unlocks a set of premium features for your Kavita install. Kavita+ is an avenue for majora2007 to go full time on Kavita development. Think of it as a way to support the development of Kavita while also getting some sweet features out of it. 
 
 The goal is to not lock all features behind Kavita+, but add features that otherwise aren't feasible in the base product. The base Kavita application will continue to get frequent updates with new features.
 
