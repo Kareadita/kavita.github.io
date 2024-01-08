@@ -4,8 +4,6 @@ mobile_view_width: 1000
 menuitems:
   - title: Wiki
     link: https://wiki.kavitareader.com/
-  - title: Demo
-    link: https://demo.kavitareader.com/
   - title: API
     link: https://www.kavitareader.com/docs/api/#/
   - title: Blog
@@ -13,4 +11,4 @@ menuitems:
 cta:
   active: true
   title: Get started
-  link: /get-started/
+  link: https://wiki.kavitareader.com/en/install

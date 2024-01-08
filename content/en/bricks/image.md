@@ -7,6 +7,7 @@ title: image
 Kavita is a massive project that is still undergoing active development with a thriving community that is helping shape and suggest it's features, that means new features could be added or removed at any time. Kavita currently features the following:  
 
 - Open Source
+- Side navigation customization
 - Dashboard customization
 - Support for the follwing formats: ZIP, RAR, RAR5, CBR, CBZ, CB7, CBT, TAR.GZ, 7ZIP/7Z, EPUB2, EPUB3, PDF, JPG/JPEG, PNG, WebP, GIF, AVIF
 - Full text search
