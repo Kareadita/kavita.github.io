@@ -20,7 +20,7 @@ We aim to provide a design that will work on all modern screen sizes while also 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
 ### Lightning fast
 
-Since the start our goal has been less than 100ms query times. This speed first architecture mindset and made Kavita the fastest media server on the market.
+Since the start our goal has been less than 100ms query times and 150-350MB of RAM. This performance-first architecture mindset and made Kavita the fastest media server on the market.
 
 ---
 
