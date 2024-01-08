@@ -8,7 +8,7 @@ url: /blog/
 
 # Blog posts
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Stay up to date on the latest news, releases, and annoucements on Kavita.
 
 {{< /brick_posts >}}
 {{< brick_cta >}}{{< /brick_cta >}}

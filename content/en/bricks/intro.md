@@ -2,10 +2,13 @@
 title: intro
 ---
 
-# The Ultimate Theme You Need To Start Your Hugo Website
+# Ready to kick-start your next reading binge?
 
-Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.
+Kavita is a lightning fast self-hosted digital library with a slick design which supports a vast array of file formats. Install to start reading and share your server with your friends. 
 
-{{< button "Get started for free" "/get-started/" >}}
+Try our demo with the username: `demouser` and password: `Demouser64`
 
-![](/uploads/brick_intro.png)
+<a class="button" href="/get-started">Get Started</a> 
+<a class="button secondary ghost" href="https://demo.kavitareader.com/" target='_blank'>Demo</a>
+
+![](/uploads/photos/hero.webp)
