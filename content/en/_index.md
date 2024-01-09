@@ -35,7 +35,7 @@ We understand that users have strong preferences. This is why we have made Kavit
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 ### Complex Metadata Filtering
 
-Complex filtering combining multiple statements....
+Complex filtering combining multiple query types including reading time, progress, series length, etc all anded/ored together.
 
 ---
 
