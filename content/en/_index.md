@@ -108,4 +108,7 @@ Kavita+ is an extension of Kavita's features.
 
 
 {{< /brick_prices >}}
+
+{{< gallery dir="/uploads/gallery/" >}}
+
 {{< brick_cta >}}{{< /brick_cta >}}
