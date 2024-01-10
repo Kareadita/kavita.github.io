@@ -2,6 +2,9 @@
 @import "base.css";
 @import "header-footer.css";
 @import "bricks.css";
+@import "brands.min.css";
+@import "solid.min.css";
+@import "fontawesome.min.css";
 
 /*------------------------*/
 /* theme colors
