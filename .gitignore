@@ -30,3 +30,5 @@ _ReSharper*/
 node_modules/*
 .idea/workspace.xml
 new_site/
+
+resources/
