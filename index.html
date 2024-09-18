@@ -67,7 +67,7 @@
     <div id=home></div>
     <section id=hero style="margin-bottom: 20px" class="lol">
         <img class="background" aria-hidden="true" alt="">
-        <img class="center" src="img/hero/example.png?6072022" alt="Kavita is on mobile and desktop" >
+        <img class="center" src="img/hero/example.png?6072023" alt="Kavita is on mobile and desktop" >
     </section>
 
     <div id=summary class=summary>
@@ -108,7 +108,7 @@
             </div>
             <div class="row feature">
                 <div class="col-sm-6 pic-right">
-                    <img src=img/features/homepage.PNG class="pull-right img-responsive" aria-hidden="true" alt="">
+                    <img src=img/features/homepage.png class="pull-right img-responsive" aria-hidden="true" alt="">
                 </div>
                 <div class="col-sm-6 info info-left">
                     <h3>
@@ -116,13 +116,13 @@
                         Homepage
                     </h3>
                     <p>
-                        Customize what's on your dashboard, the order and quickly get to your in progress series
+                        Customize what's on your dashboard, bind smart filters, and reorder streams to get the layout you like
                     </p>
                 </div>
             </div>
             <div class="row feature">
                 <div class=col-sm-6>
-                    <img src=img/features/librarydetail_v0.5.4.PNG class=img-responsive aria-hidden="true" alt="">
+                    <img src=img/features/librarydetail_v0.8.3.png class=img-responsive aria-hidden="true" alt="">
                 </div>
                 <div class="col-sm-6 info">
                     <h3>
@@ -130,7 +130,7 @@
                         Browse your Manga, Comics and Books
                     </h3>
                     <p>
-                        See all your series, properly named in one place
+                        Infinitely scroll through all your media in one place with quick access via the Jumpbar
                     </p>
                 </div>
             </div>
@@ -164,7 +164,7 @@
             </div>
             <div class="row feature">
                 <div class="col-sm-6 pic-right">
-                    <img src=img/features/seriesdetail.PNG class="pull-right img-responsive" aria-hidden="true" alt="">
+                    <img src=img/features/ratings-reviews.png class="pull-right img-responsive" aria-hidden="true" alt="">
                 </div>
                 <div class="col-sm-6 info info-left">
                     <h3>
@@ -178,7 +178,7 @@
             </div>
             <div class="row feature">
                 <div class="col-sm-6">
-                    <img src=img/features/mixedchapterandvolumes.PNG class="pull-right img-responsive" aria-hidden="true" alt="">
+                    <img src=img/features/mixedchaptersandvolumes.png class="pull-right img-responsive" aria-hidden="true" alt="">
                 </div>
                 <div class="col-sm-6 info info-right">
                     <h3>
@@ -186,13 +186,13 @@
                         Mixed Volume and Chapters
                     </h3>
                     <p>
-                        Chapters and volumes integrated next to each other &amp; Chapters can group into Volumes
+                        Chapters and volumes integrated next to each other, Chapters can group into Volumes based on filename
                     </p>
                 </div>
             </div>
             <div class="row feature">
                 <div class="col-sm-6 pic-right">
-                    <img src=img/features/userandlibrarymgmt.PNG class="pull-right img-responsive" aria-hidden="true" alt="">
+                    <img src=img/features/userandlibrarymgmt.png class="pull-right img-responsive" aria-hidden="true" alt="">
                 </div>
                 <div class="col-sm-6 info info-left">
                     <h3>
@@ -312,10 +312,10 @@
                     <li>Full metadata support and filtering ability</li>
                     <li>Send to Kindle or any email supported device for any user</li>
                     <li>Built-in Child accounts - limit age ratings and libraries accounts have access to</li>
-                    <li>Folder watching capabilities, get changes without kicking off manual scans</li>
+                    <li>Folder watching capabilities - get changes without kicking off manual scans</li>
                     <li>Rich documentation</li>
-                    <li>Accessibility first - audits for color contrast, screen reader, and keyboard only</li>
                     <li>Full Localization support</li>
+                    <li>Built-in Theme downloading and updating</li>
                     <li>Frequent updates with new features</li>
                     <li>Available on many devices and platforms including <a target="_blank" href="https://wiki.kavitareader.com/en/guides/misc/paperback">Paperback</a>, 
                         <a target="_blank" href="https://wiki.kavitareader.com/en/guides/misc/tachiyomi">Tachiyomi</a> and <a target="_blank" href="https://wiki.kavitareader.com/en/guides/misc/cdisplayex">CDisplayEx</a></li>
@@ -323,212 +323,19 @@
             </div>
         </div>
     </div>
-    <div id=download class=download>
-        <div class=container>
-            <div class=section-header>
-                <h3>Download</h3>
-            </div>
-            <div class=row>
-                <ul class="nav nav-tabs nav-justified">
-                    <li class="nav-item active">
-                        <a class="nav-link active" data-toggle=tab href=#downloads-v1-windows><i class="fab fa-windows"></i> Windows</a>
-                    </li>
-                    <li class=nav-item>
-                        <a class=nav-link data-toggle=tab href=#downloads-v1-linux><i class="fab fa-linux"></i> Linux</a>
-                    </li>
-                    <li class=nav-item>
-                        <a class=nav-link data-toggle=tab href=#downloads-v1-macos><i class="fab fa-apple"></i> macOS</a>
-                    </li>
-                    <li class=nav-item>
-                        <a class=nav-link data-toggle=tab href=#downloads-v1-docker><i class="fab fa-docker"></i> Docker</a>
-                    </li>
-                    <li class=nav-item>
-                        <a class=nav-link data-toggle=tab href=#downloads-v1-other><i class="fas fa-ellipsis-v"></i>&nbsp;&nbsp;Others</a>
-                    </li>
-                </ul>
-                <div class=tab-content id=downloads-v1-tabcontent>
-                    <div class="tab-pane fade active in" id=downloads-v1-windows role=tabpanel>
-                        <dl class=install-steps>
-                            <dt>Introduction</dt>
-                            <dd>
-                                <p>
-                                    Kavita is supported natively on Windows
-                                </p>
-                            </dd>
-                            <dt><span class=step>1</span>Install Kavita</dt>
-                            <dd>
-                                <p>
-                                    Download the Windows Installer with the following link, extract the Kavita directory and execute Kavita.exe
-                                </p>
-                                <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Windows Installer</a>
-                            </dd>
-                            <dt><span class=step>2</span>View Kavita</dt>
-                            <dd>
-                                <p>
-                                    Browse to <code>http://localhost:5000</code> to start using Kavita.
-                                </p>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="tab-pane fade" id=downloads-v1-linux role=tabpanel>
-                        <div>
-                            <div class=tab-content id=download-v1-linux-tabcontent>
-                                <dl class=install-steps>
-                                    <dt>Introduction</dt>
-                                    <dt><span class=step>1</span>Install Kavita</dt>
-                                    <dd>
-                                        <p>
-                                            Download the linux archive with the following link, chmod +x ./Kavita and execute it.
-                                        </p>
-                                        <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Linux Installer</a>
-                                    </dd>
-                                    <dt><span class=step>2</span>View Kavita</dt>
-                                    <dd>
-                                        <p>
-                                            Browse to <code>http://localhost:5000</code> to start using Kavita.
-                                        </p>
-                                    </dd>
-                                </dl>
-                                
-                                <div class="tab-pane fade active" id=downloads-v1-linux-other role=tabpanel>
-                                    <div class=install-description>
-                                        <div class="alert alert-info">
-                                            Please contact us if you wish to port Kavita for any other distribution that the ones already listed.
-                                        </div>
-                                        <p>
-                                            Generic .tar.gz downloads are available for linux, but dependencies, installation and permissions will need to be done manually.
-                                        </p>
-                                        <div>
-                                            <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Linux x64 (netcore)</a>
-                                        </div>
-                                        <div>
-                                            <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Linux arm (netcore)</a>
-                                        </div>
-                                        <div>
-                                            <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Linux arm64 (netcore)</a>
-                                        </div>
-                                        <div>
-                                            <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download Linux Musl x64 (netcore)</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id=downloads-v1-macos role=tabpanel>
-                        <dl class=install-steps>
-                            <dt>Introduction</dt>
-                            <dd>
-                                <p>
-                                    The easiest way to install Kavita on macOS is to use the App archive with the steps described below.
-                                </p>
-                                <div class="alert alert-warning">
-                                    Kavita v0.8+ is not compatible with OSX versions < 10.13 due to netcore compatability. </div>
-                            </dd>
-                            <dt><span class=step>1</span>Download App package</dt>
-                            <dd>
-                                <a class="btn btn-Lidarr" href=https://github.com/Kareadita/Kavita/releases>Download macOS App</a>
-                            </dd>
-                            <dt><span class=step>2</span>Install App</dt>
-                            <dd>
-                                <p>
-                                    Open the archive and unzip to a folder. For example using Terminal:
-                                    <pre>cd ~
-mv ~/Downloads/kavita-osx-x64.tar.gz ~
-tar -xf kavita-osx-x64.tar.gz</pre>
-                                </p>
 
-                            </dd>
-                            <dt><span class=step>3</span>Make Kavita executable</dt>
-                            <dd>
-                                <p>
-                                    Use Terminal and run the following command: 
-                                    <pre>sudo chmod +x ~/Kavita/Kavita</pre>
-                                </p>
-                                <p>Disable Gatekeeper for Kavita's folder so that Kavita and all .dll and .dylib files can be opened: 
-                                <pre>xattr -r -d com.apple.quarantine ~/Kavita/</pre><p>
-                            </dd>
-                            <dt><span class=step>3</span>Help Kavita find Sqlite</dt>
-                            <dd>
-                                <p>
-                                    Use Terminal and run the following command: 
-                                    <pre>export alias sqlite=sqlite3</pre>
-                                </p>
-                            </dd>
-                            <dt><span class=step>3</span>Start Kavita</dt>
-                            <dd>
-                                <p>
-                                    Use Terminal and run the following commands:
-                                    <pre>cd ~/Kavita
-./Kavita</pre>
-                                </p>
-                                <div class="alert alert-note">You need to launch Kavita from within the ~/Kavita folder, or else appsettings.json will fail to be acquired.</div>
-                            </dd>
-                            <dt><span class=step>4</span>View Kavita</dt>
-                            <dd>
-                                <p>
-                                    Browse to <code>http://localhost:5000</code> to start using Kavita.
-                                </p>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="tab-pane fade" id=downloads-v1-docker role=tabpanel>
-                        <dl class=install-steps>
-                            <dt>Introduction</dt>
-                            <dd>
-                                <p>
-                                    The Kavita team has their own docker images, actively maintained. We support arm and arm64 out of the box. You can also use Linux Server's image.
-                                </p>
-                                <p>There are currently 2 tags:</p>
-                                <ul>
-                                    <li><code>:nightly</code> which is the bleeding edge builds. Best to use if you are in the discord to actively test</li>
-                                    <li><code>:latest</code> which is the latest stable build</li>
-                                </ul>
-                                <p>You can find more information on our 
-                                    <a href="https://hub.docker.com/r/jvmilazz0/kavita/tags" target="_blank">docker hub</a> or a more informative setup on our <a href="https://wiki.kavitareader.com/en/install/docker-install" target="_blank">wiki</a>.
-                                </p>
-                            </dd>
-                            <dt><span class=step>1</span>Install Kavita</dt>
-                            <dd>
-                                <p>
-                                    To install and use the Docker image, run the following command:<br>
-                                </p>
-                                <p style="margin-left: 20px">
-                                    <pre>docker run --name kavita -p 5000:5000 \
-    -v /your/manga/directory:/manga \
-    -v /kavita/data/directory:/kavita/config \
-    --restart unless-stopped \
-    -d jvmilazz0/kavita:latest</pre>
-                                </p>
-                                <p>
-                                    Alternatively you can use <a href=https://github.com/Kareadita/Kavita#docker target="_blank">docker-compose file</a>:
-                                </p>
 
-                                <p style="margin-left: 20px">
-<pre>version: '3.9'
-services:
-    kavita:
-        image: jvmilazz0/kavita:latest
-        volumes:
-            - ./manga:/manga
-            - ./data:/kavita/config
-        ports:
-            - "5000:5000"
-        restart: unless-stopped</pre>
-                                </p>
-                            </dd>
-                        </dl>
-                    </div>
-                    <div class="tab-pane fade" id=downloads-v1-other role=tabpanel>
-                        <div class="alert alert-info">
-                            Please contact us if you wish to port Kavita for any other platform that the ones already listed.<br>
-                            We prefer to coordinate the port, please reach out on Github or Discord.
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+    
+
+    <div id=download class="download">
+        <div class="container" style="padding-top: 20px">
+            <a class="btn btn-primary" style="background-color: #4ac694; color: white; border-color: #4ac694; width: 100%" href="https://wiki.kavitareader.com/installation/getting-started#installation-methods">
+                Get Started with Kavita
+            </a>
         </div>
     </div>
+
     <div id=support class=support>
         <div class=container>
             <div class=section-header>
