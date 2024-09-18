@@ -111,6 +111,7 @@ Aria Press|comics/Aria Press.png
 Armada|comics/Armada.png
 Arnoldo Mondadori Editore|comics/Arnoldo Mondadori Editore.png
 Arrow|comics/Arrow.png
+ASCII Media Works#ASCII|manga/ascii.png
 Aspen MLT|comics/Aspen MLT.png
 Astonish Comics|comics/Astonish Comics.png
 Asuka Comics|comics/Asuka Comics.png
@@ -128,6 +129,7 @@ Avery Hill Publishing|comics/Avery Hill Publishing.png
 Avon|comics/Avon.png
 AWA Studios|comics/AWA Studios.png
 Azteca Productions|comics/Azteca Productions.png
+Azuki|manga/azuki.png
 Azure Press|comics/Azure Press.png
 B & H Publishing Group|comics/B & H Publishing Group.png
 Baby Tattoo Books|comics/Baby Tattoo Books.png
@@ -225,6 +227,8 @@ Comic Art|comics/Comic Art.png
 Comic Bom Bom|comics/Comic Bom Bom.png
 Comic Media|comics/Comic Media.png
 Comico|comics/Comico.png
+ComicSmart|manga/ComicSmart.png
+Comikey|manga/Comikey.png
 Comicraft|comics/Comicraft.png
 comixology|comics/comixology.png
 Coniglio Editore|comics/Coniglio Editore.png
@@ -236,6 +240,7 @@ Creation Books|comics/Creation Books.png
 Creators Edge Press|comics/Creators Edge Press.png
 Crossgen Comics|comics/Crossgen Comics.png
 Crossgen|comics/Crossgen.png
+Crunchyroll|manga/Crunchyroll.png
 Crusade|comics/Crusade.png
 Cry For Dawn Productions|comics/Cry For Dawn Productions.png
 Ctrl Alt Del|comics/Ctrl Alt Del.png
@@ -256,6 +261,7 @@ Delcourt|comics/Delcourt.png
 Dell|comics/Dell.png
 Delrey|comics/Delrey.png
 Deluxe Comics|comics/Deluxe Comics.png
+Denki Bunko|manga/denki_bunko.png
 Department of the Army|comics/Department of the Army.png
 Derfcity Comics|comics/Derfcity Comics.png
 Desperado Publishing|comics/Desperado Publishing.png
@@ -308,6 +314,7 @@ Four Star Comic Corp.#Four Star Publications|comics/Four Star Comic Corp..png
 Four Walls Eight Windows|comics/Four Walls Eight Windows.png
 Fox Atomic Comics|comics/Fox Atomic Comics.png
 Fox Feature Syndicate|comics/Fox Feature Syndicate.png
+Futabasha|manga/Futabasha.png
 Gemstone#Gemstone Publishing|comics/Gemstone.png
 GG Studio|comics/GG Studio.png
 Gladstone#Gladstone Publishing|comics/Gladstone.png
@@ -317,8 +324,10 @@ Gold Key|comics/Gold Key.png
 Grand Angle|comics/Grand Angle.png
 Graphic India|comics/Graphic India.png
 Great Big Comics|comics/Great Big Comics.png
+Gentosha|manga/gentosha.png
 Grind House Comics|comics/Grind House Comics.png
 Hachette|comics/Hachette.png
+Hakusensha|manga/Hakusensha.png
 Harper & Row|comics/Harper & Row.png
 Harpercollins|comics/Harpercollins.png
 Harvey Pekar|comics/Harvey Pekar.png
@@ -328,27 +337,33 @@ HeavyMetal#Heavy Metal#Heavy Metal Comics|comics/HeavyMetal.png
 Hero Initiative|comics/Hero Initiative.png
 Hill and Wang|comics/Hill and Wang.png
 Homage comics|comics/Homage comics.png
+Houbunsha#Hobunsha|manga/houbunsha.png
 Houghton Mifflin#Houghton Mifflin Harcourt|comics/Houghton Mifflin.png
 Humanoids|comics/Humanoids.png
 I Box Publishing|comics/I Box Publishing.png
+Ichijinsha|manga/ichijinsha.png
 Icon Comics|comics/Icon Comics.png
 Iconic Comics|comics/Iconic Comics.png
 Id Software|comics/Id Software.png
 IDW Publishing#IDW|comics/IDW Publishing.png
 Image#Image Comics|comics/Image.png
 IMAV éditions|comics/IMAV éditions.png
+INKR Comics#INKR|manga/inkr_comics.png
+Irodori Sakura|manga/Irodori Sakura.png
 JAMS + JELLIES|comics/JAMS + JELLIES.jpg
 JAMS + JELLIES|comics/JAMS + JELLIES.png
+J-Novel#J Novel#J Novel Club|manga/j_novel.png
 Johnny DC|comics/Johnny DC.png
 Kaboom#Kaboom!|comics/Kaboom.png
-Kadokawa Shoten|comics/Kadokawa Shoten.png
+Kadokawa Shoten#Kadokawa|comics/Kadokawa Shoten.png
 Kaiten Books|comics/Kaiten Books.png
 Kana|comics/Kana.png
 KettleDrummer Books|comics/KettleDrummer Books.png
 Key Publications|comics/Key Publications.png
+Kill Time Communication|manga/Kill Time Communication.png
 Kitchen Sink|comics/Kitchen Sink.png
 KiZoic|comics/KiZoic.png
-Kodansha|comics/Kodansha.png
+Kodansha#Kodansha USA|comics/Kodansha.png
 Kult Editionen|comics/Kult Editionen.png
 Kurokawa|comics/Kurokawa.png
 L. Miller|comics/L. Miller.png
@@ -376,6 +391,8 @@ Magnetic Press|comics/Magnetic Press.png
 Malibu|comics/Malibu.png
 Man of Action Studios|comics/Man of Action Studios.png
 MangaONE|comics/MangaONE.png
+Manga Up#Manga Up Global|manga/Manga Up.png
+Manga Plaza|manga/Manga Plaza.png
 Markosia|comics/Markosia.png
 Marsu Productions|comics/Marsu Productions.png
 Marvel Adventures|comics/Marvel Adventures.png
@@ -425,6 +442,7 @@ Planeta Cómic|comics/Planeta Cómic.png
 Planeta DeAgostini|comics/Planeta DeAgostini.png
 Platinum Studios Comics|comics/Platinum Studios Comics.png
 Ponent Mon#Ponent-Mon-Destacada|comics/Ponent Mon.png
+Postype|manga/postype.png
 Presse Aventure|comics/Presse Aventure.png
 Print Mint|comics/Print Mint.png
 Prize|comics/Prize.png
@@ -451,7 +469,7 @@ SelfMadeHero|comics/SelfMadeHero.png
 Sergio Bonelli Editore|comics/Sergio Bonelli Editore.png
 Shadowline|comics/Shadowline.png
 Shanda Fantasy Arts|comics/Shanda Fantasy Arts.png
-Shogakukan|comics/Shogakukan.png
+Shogakukan#Shogakukan Asia|comics/Shogakukan.png
 Shueisha|comics/Shueisha.png
 Silent Devil Productions|comics/Silent Devil Productions.png
 Silvester Strips|comics/Silvester Strips.png
@@ -469,7 +487,7 @@ Speakeasy Comics|comics/Speakeasy Comics.png
 Sphinx Comix|comics/Sphinx Comix.png
 Spire Christian Comics|comics/Spire Christian Comics.png
 Splitter|comics/Splitter.png
-Square Enix Manga & Books|comics/Square Enix Manga & Books.png
+Square Enix Manga & Books#Square Enix#Square Enix USA|comics/Square Enix Manga & Books.png
 St. John Publishing|comics/St. John Publishing.png
 Standard|comics/Standard.png
 Star Comics|comics/Star Comics.png
@@ -538,5 +556,5 @@ Zip Comics|comics/Zip Comics.png
 Éditions du Boréal#Boréal|comics/Éditions du Boréal.png
 Éditions Moulinsart|comics/Éditions Moulinsart.png
 Yen Press#Yen On|manga/Yen_Press.png
-Seven Seas Entertainment|manga/Seven Seas Entertainment.png
+Seven Seas Entertainment#Seven Seas|manga/Seven Seas Entertainment.png
 Viz#Viz Media|comics/Viz.png
