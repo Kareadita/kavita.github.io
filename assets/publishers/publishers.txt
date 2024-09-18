@@ -497,7 +497,7 @@ Titan Magazines|comics/Titan Magazines.png
 Titan#Titan Comics|comics/Titan.png
 TKO Studios|comics/TKO Studios.png
 Toby Press|comics/Toby Press.png
-Tokyopop|comics/Tokyopop.png
+Tokyopop|manga/Tokyopop.png
 Top Cow|comics/Top Cow.png
 Top Shelf#Top Shelf Productions|comics/Top Shelf.png
 Topps Comics|comics/Topps Comics.png
