@@ -557,5 +557,5 @@ Zip Comics|comics/Zip Comics.png
 Éditions du Boréal#Boréal|comics/Éditions du Boréal.png
 Éditions Moulinsart|comics/Éditions Moulinsart.png
 Yen Press#Yen On|manga/Yen_Press.png
-Seven Seas Entertainment#Seven Seas|manga/Seven Seas Entertainment.png
+Seven Seas Entertainment#Seven Seas#Airship|manga/Seven Seas Entertainment.png
 Viz#Viz Media|comics/Viz.png
