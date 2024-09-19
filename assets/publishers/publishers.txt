@@ -353,7 +353,7 @@ INKR Comics#INKR|manga/inkr_comics.png
 Irodori Sakura#Irodori Comics#Irodori Aqua#Shikimaya Publishing#Enshodo|manga/Irodori Sakura.png
 JAMS + JELLIES|comics/JAMS + JELLIES.jpg
 JAMS + JELLIES|comics/JAMS + JELLIES.png
-J-Novel#J Novel#J Novel Club#JNC Nina|manga/j_novel.png
+J-Novel#J Novel#J Novel Club#J-Novel Club#JNC Nina|manga/j_novel.png
 Johnny DC|comics/Johnny DC.png
 Kaboom#Kaboom!|comics/Kaboom.png
 Kadokawa Shoten#Kadokawa|comics/Kadokawa Shoten.png
