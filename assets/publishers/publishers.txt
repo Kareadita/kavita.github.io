@@ -558,4 +558,15 @@ Zip Comics|comics/Zip Comics.png
 Éditions Moulinsart|comics/Éditions Moulinsart.png
 Yen Press#Yen On|manga/Yen_Press.png
 Seven Seas Entertainment#Seven Seas#Airship|manga/Seven Seas Entertainment.png
-Viz#Viz Media|comics/Viz.png
+Viz#Viz Media|manga/Viz.png
+Fakku#Fakku!|manga/fakku.png
+Hayabusa|manga/hayabusa.png
+Egmont Manga|manga/egmont manga.png
+Dokico|manga/dokico.png
+Kaze Manga#Kazé Manga#Kaze#Kazé|manga/kaze.png
+Pixelite|manga/pixelite.png
+Manja JAM session#MJS|manga/manga jam session.png
+Carlsem Manga#Carlsen Manga!|manga/carlsen manga.png
+Summer Salt|manga/summer salt.png
+2D Market|manga/2d market.png
+Denpasoft|manga/denpasoft.png
