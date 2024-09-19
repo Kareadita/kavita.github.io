@@ -364,7 +364,7 @@ Key Publications|comics/Key Publications.png
 Kill Time Communication|manga/Kill Time Communication.png
 Kitchen Sink|comics/Kitchen Sink.png
 KiZoic|comics/KiZoic.png
-Kodansha#Kodansha USA|comics/Kodansha.png
+Kodansha#Kodansha USA#Kodansha Comics|comics/Kodansha.png
 Kult Editionen|comics/Kult Editionen.png
 Kurokawa|comics/Kurokawa.png
 L. Miller|comics/L. Miller.png
