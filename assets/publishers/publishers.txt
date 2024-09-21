@@ -69,6 +69,7 @@ All-American Comics|comics/All-American Comics.png
 All-Negro Comics|comics/All-Negro Comics.png
 Alterna Comics|comics/Alterna Comics.png
 Alternative Press|comics/Alternative Press.png
+altraverse#Altraverse GmbH|manga/altraverse.png
 Alvglans|comics/Alvglans.png
 Amalgam Comics|comics/Amalgam Comics.png
 Amazing Aaron Productions|comics/Amazing Aaron Productions.png
@@ -349,10 +350,10 @@ IDW Publishing#IDW|comics/IDW Publishing.png
 Image#Image Comics|comics/Image.png
 IMAV éditions|comics/IMAV éditions.png
 INKR Comics#INKR|manga/inkr_comics.png
-Irodori Sakura|manga/Irodori Sakura.png
+Irodori Sakura#Irodori Comics#Irodori Aqua#Shikimaya Publishing#Enshodo|manga/Irodori Sakura.png
 JAMS + JELLIES|comics/JAMS + JELLIES.jpg
 JAMS + JELLIES|comics/JAMS + JELLIES.png
-J-Novel#J Novel#J Novel Club|manga/j_novel.png
+J-Novel#J Novel#J Novel Club#J-Novel Club#JNC Nina|manga/j_novel.png
 Johnny DC|comics/Johnny DC.png
 Kaboom#Kaboom!|comics/Kaboom.png
 Kadokawa Shoten#Kadokawa|comics/Kadokawa Shoten.png
@@ -363,7 +364,7 @@ Key Publications|comics/Key Publications.png
 Kill Time Communication|manga/Kill Time Communication.png
 Kitchen Sink|comics/Kitchen Sink.png
 KiZoic|comics/KiZoic.png
-Kodansha#Kodansha USA|comics/Kodansha.png
+Kodansha#Kodansha USA#Kodansha Comics|comics/Kodansha.png
 Kult Editionen|comics/Kult Editionen.png
 Kurokawa|comics/Kurokawa.png
 L. Miller|comics/L. Miller.png
@@ -556,5 +557,16 @@ Zip Comics|comics/Zip Comics.png
 Éditions du Boréal#Boréal|comics/Éditions du Boréal.png
 Éditions Moulinsart|comics/Éditions Moulinsart.png
 Yen Press#Yen On|manga/Yen_Press.png
-Seven Seas Entertainment#Seven Seas|manga/Seven Seas Entertainment.png
-Viz#Viz Media|comics/Viz.png
+Seven Seas Entertainment#Seven Seas#Airship|manga/Seven Seas Entertainment.png
+Viz#Viz Media|manga/Viz.png
+Fakku#Fakku!|manga/fakku.png
+Hayabusa|manga/hayabusa.png
+Egmont Manga|manga/egmont manga.png
+Dokico|manga/dokico.png
+Kaze Manga#Kazé Manga#Kaze#Kazé|manga/kaze.png
+Pixelite|manga/pixelite.png
+Manja JAM session#MJS|manga/manga jam session.png
+Carlsem Manga#Carlsen Manga!|manga/carlsen manga.png
+Summer Salt|manga/summer salt.png
+2D Market|manga/2d market.png
+Denpasoft|manga/denpasoft.png
