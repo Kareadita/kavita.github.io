@@ -1,0 +1,61 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Table Styles */
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Image Styles */
+  .publisher-image {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    table {
+      font-size: 14px;
+    }
+  
+    .publisher-image {
+      max-width: 80px;
+    }
+  }
+  

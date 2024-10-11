@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kavita - Publishers List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Publishers</h1>
+    <p>You will find all Publishers Kavita has available for image fetching.</p>
+    <div id="publishers-table" class="table-responsive">
+      <!-- Table will be dynamically populated here -->
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const publishersTable = document.getElementById('publishers-table');
+
+      const basePath = '../../assets/publishers/';
+
+      // Function to fetch the publishers.txt file
+      fetch(basePath + 'publishers.txt')
+        .then(response => response.text())
+        .then(data => {
+          const lines = data.split('\n').filter(line => line.trim() !== '');
+          let tableContent = '<table><thead><tr><th>Publisher</th><th>Image</th></tr></thead><tbody>';
+
+          lines.forEach(line => {
+            // Split the line by '|' to get the publisher and path
+            const [publisherInfo, imagePath] = line.split('|');
+            
+            // Handle aliases by splitting by '#'
+            const publisherNames = publisherInfo.split('#').join(', ');
+
+            // Construct table rows
+            tableContent += `
+              <tr>
+                <td>${publisherNames}</td>
+                <td><img src="${basePath}${imagePath}" alt="${publisherNames}" class="publisher-image"></td>
+              </tr>
+            `;
+          });
+
+          tableContent += '</tbody></table>';
+          publishersTable.innerHTML = tableContent;
+        })
+        .catch(error => {
+          console.error('Error fetching publishers.txt:', error);
+        });
+    });
+  </script>
+</body>
+</html>
