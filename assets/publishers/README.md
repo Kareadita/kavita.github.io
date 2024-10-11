@@ -6,3 +6,5 @@ If there are multiple names for a publisher, like Black Mask, which may be "Blac
 You may use anything for the filename, ideally the first name of the publisher line.
 
 The file size of an image should not exceed 5KB.
+
+To view all images, visit [https://www.kavitareader.com/publishers/](https://www.kavitareader.com/publishers/).
