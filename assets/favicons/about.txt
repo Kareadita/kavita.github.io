@@ -1,1 +1,0 @@
-These contain favicons where Kavita can't pull an icon from naturally. Kavita will fallback to this location.
